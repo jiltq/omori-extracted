@@ -15,5 +15,5 @@
   ],
   "omoriRouteExclusives": ["RED KNIFE"],
   "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"],
-  "unusedWeapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "RESERVED"]
+  "unusedWeapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "RESERVED", ""]
 }
