@@ -14,5 +14,6 @@
     "//TUTORIAL SAD//", "//TUTORIAL ANGRY//", "//SHADOW BASIL//", "//EPILOUGE FIGHTS//", "// BOSS RUSH //", "// NOW WITH MORE EXP ///", "// SNALEY //"
   ],
   "omoriRouteExclusives": ["RED KNIFE"],
-  "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"]
+  "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"],
+  "weaponLabels": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //"]
 }
