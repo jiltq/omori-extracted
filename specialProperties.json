@@ -16,9 +16,9 @@
   "omoriRouteExclusives": ["RED KNIFE", "BASEBALL BAT", "OL' RELIABLE"],
   "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"],
   "unused": {
-    "weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //", "RESERVED", ""],
-    "skills": [],
-    "armors": [],
-    "items": [],
+    "Weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //", "RESERVED", ""],
+    "Skills": [],
+    "Armors": [],
+    "Items": [],
   }
 }
