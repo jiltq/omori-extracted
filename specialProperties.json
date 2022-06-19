@@ -12,7 +12,7 @@
     "all": ["RESERVED", ""],
     "Weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //"],
     "Skills": [],
-    "Armors": ["// CHARMS //"],
+    "Armors": ["// CHARMS //", "// FAR AWAY TOWN //"],
     "Items": ["", "-----NOTE-----"],
     "Enemies": [
       "TEST", "EASILY KILLABLE", "SLIME ATTACK TEST", "Test Transform", "TEST NO ATTACK", "TEST 1", "Test Neutral",
