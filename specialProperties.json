@@ -10,7 +10,7 @@
   "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS", "ALLEGRO", "ENCORE", "CHERISH"],
   "unused": {
     "Weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //", "RESERVED", ""],
-    "Skills": [""],
+    "Skills": ["", "RESERVED"],
     "Armors": ["// CHARMS //", ""],
     "Items": ["", "-----NOTE-----"],
     "Enemies": [
