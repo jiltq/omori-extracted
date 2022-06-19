@@ -6,7 +6,7 @@
     "//RAIN TOWN//", "//SWAP ENEMIES//", "//EXTRAS//", "//FOR BEASTIARY//", "//Alt Route Something//", "// Fear Dreamworld Fights //", "//TUTORIAL HAPPY//",
     "//TUTORIAL SAD//", "//TUTORIAL ANGRY//", "//SHADOW BASIL//", "//EPILOUGE FIGHTS//", "// BOSS RUSH //", "// NOW WITH MORE EXP ///", "// SNALEY //"
   ],
-  "omoriRouteExclusives": ["RED KNIFE", "BASEBALL BAT", "OL' RELIABLE"],
+  "omoriRouteExclusives": ["RED KNIFE", "BASEBALL BAT", "OL' RELIABLE", "RED HANDS", "VERTIGO", "CRIPPLE", "SUFFOCATE", "ALLEGRO", "ENCORE", "CHERISH"],
   "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"],
   "unused": {
     "Weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //", "RESERVED", ""],
