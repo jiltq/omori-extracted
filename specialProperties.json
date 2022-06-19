@@ -13,6 +13,6 @@
     "//RAIN TOWN//", "//SWAP ENEMIES//", "//EXTRAS//", "//FOR BEASTIARY//", "//Alt Route Something//", "// Fear Dreamworld Fights //", "//TUTORIAL HAPPY//",
     "//TUTORIAL SAD//", "//TUTORIAL ANGRY//", "//SHADOW BASIL//", "//EPILOUGE FIGHTS//", "// BOSS RUSH //", "// NOW WITH MORE EXP ///", "// SNALEY //"
   ],
-  "omoriRouteExclusiveWeapons": ["RED KNIFE"],
-  "sunnyRouteExclusiveWeapons": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"]
+  "omoriRouteExclusives": ["RED KNIFE"],
+  "sunnyRouteExclusives": ["FLY SWATTER", "VIOLIN", "FIST", "NAIL BAT", "HANDS"]
 }
