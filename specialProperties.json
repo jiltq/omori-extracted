@@ -1,12 +1,5 @@
 {
-  "enemiesInBossRush": ["YE OLD SPROUT", "popupwindowname", "SPACE EX-BOYFRIEND", "KING CRAWLER", "SIR MAXIMUS", "SIR MAXIMUS II", "SIR MAXIMUS III", "LIFE JAM GUY", "SWEETHEART", "MR. JAWSUM", "PLUTO (EXPANDED)", "SLIME GIRLS", "dohumphrey"],
-  "unusedEnemyNames": [
-    "RESERVED", "", "TEST", "EASILY KILLABLE", "SLIME ATTACK TEST", "Test Transform", "TEST NO ATTACK", "TEST 1", "Test Neutral",
-    "Test Happy", "Test Sad", "Test Angry", "BLANK", "// PINWHEEL FOREST //", "//OTHERWORLD//", "//SNOW FOREST//", "//DOUGH DUNGEON//", "//PYREFLY FOREST//",
-    "//SWEET HEART'S CASTLE//", "//DEEP WELL//", "//ABYSS//", "//SLIME GIRLS LAIR//", "//BLACK SPACE//", "//FAR AWAY TOWN//", "//BOSSES//", "BLANK", "//REAL ENEMIES//",
-    "//RAIN TOWN//", "//SWAP ENEMIES//", "//EXTRAS//", "//FOR BEASTIARY//", "//Alt Route Something//", "// Fear Dreamworld Fights //", "//TUTORIAL HAPPY//",
-    "//TUTORIAL SAD//", "//TUTORIAL ANGRY//", "//SHADOW BASIL//", "//EPILOUGE FIGHTS//", "// BOSS RUSH //", "// NOW WITH MORE EXP ///", "// SNALEY //"
-  ],
+  "enemiesInBossRush": ["YE OLD SPROUT", "DOWNLOAD WINDOW", "SPACE EX-BOYFRIEND", "KING CRAWLER", "SIR MAXIMUS", "SIR MAXIMUS II", "SIR MAXIMUS III", "LIFE JAM GUY", "SWEETHEART", "MR. JAWSUM", "PLUTO (EXPANDED)", "SLIME GIRLS", "dohumphrey"],
   "labelEnemies": [
     "// PINWHEEL FOREST //", "//OTHERWORLD//", "//SNOW FOREST//", "//DOUGH DUNGEON//", "//PYREFLY FOREST//",
     "//SWEET HEART'S CASTLE//", "//DEEP WELL//", "//ABYSS//", "//SLIME GIRLS LAIR//", "//BLACK SPACE//", "//FAR AWAY TOWN//", "//BOSSES//", "//REAL ENEMIES//",
@@ -19,6 +12,13 @@
     "Weapons": ["// OMORI //", "//PLAYER//", "// KEL //", "// HERO //", "// FAT HERO //", "// FAT KEL //", "// FAT AUBREY //", "// OMORI FEAR //", "// AUBREY //", "RESERVED", ""],
     "Skills": [""],
     "Armors": ["// CHARMS //", ""],
-    "Items": ["", "-----NOTE-----"]
+    "Items": ["", "-----NOTE-----"],
+    "Enemies": [
+      "RESERVED", "", "TEST", "EASILY KILLABLE", "SLIME ATTACK TEST", "Test Transform", "TEST NO ATTACK", "TEST 1", "Test Neutral",
+      "Test Happy", "Test Sad", "Test Angry", "BLANK", "// PINWHEEL FOREST //", "//OTHERWORLD//", "//SNOW FOREST//", "//DOUGH DUNGEON//", "//PYREFLY FOREST//",
+      "//SWEET HEART'S CASTLE//", "//DEEP WELL//", "//ABYSS//", "//SLIME GIRLS LAIR//", "//BLACK SPACE//", "//FAR AWAY TOWN//", "//BOSSES//", "BLANK", "//REAL ENEMIES//",
+      "//RAIN TOWN//", "//SWAP ENEMIES//", "//EXTRAS//", "//FOR BEASTIARY//", "//Alt Route Something//", "// Fear Dreamworld Fights //", "//TUTORIAL HAPPY//",
+      "//TUTORIAL SAD//", "//TUTORIAL ANGRY//", "//SHADOW BASIL//", "//EPILOUGE FIGHTS//", "// BOSS RUSH //", "// NOW WITH MORE EXP ///", "// SNALEY //"
+    ]
   }
 }
