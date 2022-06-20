@@ -1,9 +1,11 @@
 {
-    "SHINY KNIFE": [1, 1],
-    "COCONUT": [109, 1],
-    "GLOBE": [109, 109],
-    "BASKETBALL": [217, 109],
-    "BODY PILLOW": [325, 109],
-    "POOL NOODLE": [325, 217],
-    "COOL NOODLE": [325, 325]
+    "SHINY KNIFE": [0, 0],
+    "COCONUT": [0, 1],
+    "CHICKEN BALL": [0, 2],
+    "COMET HAMMER": [0, 3],
+    "HERO'S TROPHY": [0, 4],
+    "LOL SWORD": [0, 5],
+    "SPATULA": [0, 6],
+    "KNIFE": [0, 7],
+    "ROLLING PIN": [0, 8]
 }
