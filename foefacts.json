@@ -1,0 +1,1555 @@
+{
+  "EmptyEnemyName": "FOE FACTS!",
+  "Information": {
+    "19": {
+      "name": "FOREST BUNNY",
+      "background": {
+        "name": "battleback_vf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 0
+      },
+      "listIndex": 0,
+      "text": "Cute and fluffy creatures\nthat may or may not attack\npeople without warning...\n\n- OMORI\n\n\nI think it would probably make\nfor a cute pet!\n\n- AUBREY\n"
+    },
+    "23": {
+      "name": "FOREST BUNNY?",
+      "background": {
+        "name": "battleback_vf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 0
+      },
+      "listIndex": 1,
+      "text": "A regular FOREST BUNNY,\nbut upside-down... Why does\nit do that? It seems\ninconvenient...\n\n- OMORI\n\n\nIts ear muscles must be\nreally strong!!\n\n- KEL\n"
+    },
+    "27": {
+      "name": "LOST SPROUT MOLE",
+      "background": {
+        "name": "battleback_vf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_MOLES",
+        "index": 0
+      },
+      "listIndex": 2,
+      "text": "A dangerous and hostile ugly\nplant creature. It says it is\nsmart, but do not believe it.\nIt is not. It smells like\ndirty laundry.\n\n- OMORI\n"
+    },
+    "37": {
+      "name": "SPACE BUNNY",
+      "background": {
+        "name": "battleback_ow_cattail",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 6
+      },
+      "listIndex": 5,
+      "text": "A regular FOREST BUNNY\nwith a bubble on its head.\nThis allows it to breathe\nin space.\n\n-OMORI\n\n\nI'm guessing it likes to space\nout? Heh, heh. Get it?\n\n-HERO\n"
+    },
+    "44": {
+      "name": "DUST BUNNY",
+      "background": {
+        "name": "battleback_bookshelf",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 1
+      },
+      "listIndex": 4,
+      "text": "The sneeziest of all bunnies.\nLikes to hide in bookshelves\nand under the bed. Seems\na little shy...\n\n- OMORI\n"
+    },
+    "45": {
+      "name": "U.F.O.",
+      "background": {
+        "name": "battleback_ow_cattail",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 2
+      },
+      "listIndex": 6,
+      "text": "A.K.A.\nUNIDENTIFIED FLYING ORANGE\nA highly advanced orange,\ncommonly seen aimlessly\nfloating through the\nvastness of space.\n\n-OMORI\n\n\nIt still tastes like an orange!\n\n-KEL\n"
+    },
+    "49": {
+      "name": "VENUS FLYTRAP",
+      "background": {
+        "name": "battleback_ow_outskirts",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 3
+      },
+      "listIndex": 7,
+      "text": "The features of the VENUS\nFLYTRAP resemble that of\na common watermelon. It is an\nevolutionary trait that is used\nto lure in unintelligent prey.\n\n-OMORI\n\n\nMan, I was so sure it\nwas a watermelon!\n\n-KEL\n"
+    },
+    "53": {
+      "name": "WORMHOLE",
+      "background": {
+        "name": "battleback_ow_outskirts",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 4
+      },
+      "listIndex": 8,
+      "text": "It is said that WORMHOLES\nare capable of connecting\nwidely separated regions of\nspace and time... but this\none's just a worm.\n\n- OMORI\n\n\nI don't like how it wiggles...\n\n-AUBREY\n"
+    },
+    "57": {
+      "name": "MIXTAPE",
+      "background": {
+        "name": "battleback_ow_junkyard",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 1
+      },
+      "listIndex": 9,
+      "text": "A relic of the past...\nIt seems awfully cheerful\ndespite its impending\nfall into obscurity.\n\n- OMORI\n\n\nI used to collect these a while\nago! So this is where they all\nwent...\n\n- HERO\n"
+    },
+    "61": {
+      "name": "DIAL-UP",
+      "background": {
+        "name": "battleback_ow_junkyard",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 350
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 0
+      },
+      "listIndex": 10,
+      "text": "An ancient form of accessing\ncommunication networks.\nMakes a horrible ear-piercing\nnoise when used.\n\n- OMORI\n\n\nAh, this sound reminds me\nof the good old days...\n\n- HERO\n"
+    },
+    "65": {
+      "name": "DOOMBOX",
+      "background": {
+        "name": "battleback_ow_junkyard",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_7",
+        "index": 1
+      },
+      "listIndex": 11,
+      "text": "The revived spirit of a BOOM\nBOX, a portable method of\ntransporting loud noises.\n\n- OMORI\n"
+    },
+    "69": {
+      "name": "SHARK PLANE",
+      "background": {
+        "name": "battleback_ow_junkyard",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 200,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_9",
+        "index": 0
+      },
+      "listIndex": 12,
+      "text": "An aerial predator capable of\nswooping up unsuspecting\npassengers at mach-speed.\nYou never know where you'll\nend up once you board a\nSHARK PLANE...\n\n- OMORI\n"
+    },
+    "79": {
+      "name": "SNOW BUNNY",
+      "background": {
+        "name": "battleback_ff_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 7
+      },
+      "listIndex": 54,
+      "text": "Kicks snow at you when it's\nangry. Capable of creating\nthe world's smallest\nsnowstorm...\n\n- OMORI\n\n\nDo you think it will melt if\nwe put it in the sun?\n\n- KEL\n"
+    },
+    "83": {
+      "name": "SNOW ANGEL",
+      "background": {
+        "name": "battleback_ff_xsh",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_EN_8",
+        "index": 0
+      },
+      "listIndex": 56,
+      "text": "Guardians of SNOWGLOBE\nMOUNTAIN... Its eyes are\nfilled with stories.\n\nSNOW ANGELS are known to\nappear to lost travelers\nand disappear with them\ninto the snowfall.\n\n- OMORI\n"
+    },
+    "87": {
+      "name": "SNOW PILE",
+      "background": {
+        "name": "battleback_ff_xsh",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 450
+      },
+      "character": {
+        "name": "DW_EN_4",
+        "index": 1
+      },
+      "listIndex": 55,
+      "text": "An unintentionally cursed\npatch of snow. It wonders\nwhy it is alive.\n\n- OMORI\n"
+    },
+    "97": {
+      "name": "BUN BUNNY",
+      "background": {
+        "name": "battleback_oo_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 2
+      },
+      "listIndex": 24,
+      "text": "Kind of cute. Might be vegan.\n- OMORI\n\nIs this vegan?\n- KEL\n\nNot sure if vegan.\n- HERO\n\nDefinitely not vegan...\n- AUBREY\n"
+    },
+    "101": {
+      "name": "CREEPYPASTA",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 400
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 5
+      },
+      "listIndex": 48,
+      "text": "Let me start off by saying\nthat everything you're about\nto hear is 100% true. There\nwas a garage sale last\nsummer. I spotted a dusty\ncartridge of a game I never\nheard of before. I bought it,\nbut when I got home, it didn't\nwork. When I went back to\nthe garage sale, the house\nwas burnt down. :O\n"
+    },
+    "105": {
+      "name": "COPYPASTA",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 400
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 5
+      },
+      "listIndex": 49,
+      "text": "A COPYPASTA is a pasta\nthat copies itself.\n- OMORI\n\nA COPYPASTA is a pasta\nthat copies itself.\n- KEL\n\nA COPYPASTA is a pasta\nthat copies itself.\n- AUBREY\n"
+    },
+    "109": {
+      "name": "HUSH PUPPY",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 3
+      },
+      "listIndex": 53,
+      "text": "An erratic entity that was\nborn from the cries of lost\nsouls. It slowly screams\nitself to death.\n\n- OMORI\n"
+    },
+    "125": {
+      "name": "LIVING BREAD",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 6
+      },
+      "listIndex": 50,
+      "text": "A demon bread, baked to\nperfection. Its only purpose\nis to consume LIFE JAM.\n\n- OMORI\n\n\n\n\nBleh!!\n\n- KEL\n"
+    },
+    "129": {
+      "name": "GINGERDEAD MAN",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 4
+      },
+      "listIndex": 51,
+      "text": "Maybe a little sad...\nBut definitely not dead.\n\n- OMORI\n\nThat doesn't even rhyme...\n\n- AUBREY\n"
+    },
+    "133": {
+      "name": "PORCUPIE",
+      "background": {
+        "name": "battleback_excavation_1",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 1
+      },
+      "listIndex": 29,
+      "text": "A rejected dessert sentenced\nto wander the wasteland for an\neternity.\n\n- OMORI\n\n\nWas its flavor too sharp?\n\n- HERO\n"
+    },
+    "142": {
+      "name": "BUG BUNNY",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES_2",
+        "index": 2
+      },
+      "listIndex": 13,
+      "text": "Actually an arthropod.\nIt likes cold temperatures\nand rolls down steep hills\nfor amusement. The hobby has\ngained so much traction that\nthey now hold a yearly\nhill-rolling competition.\n\n- OMORI\n"
+    },
+    "146": {
+      "name": "RARE BEAR",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 450
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 0
+      },
+      "listIndex": 14,
+      "text": "Warning: Do not provoke.\nDo not show weakness.\n\n- OMORI\n"
+    },
+    "150": {
+      "name": "POTTED PLANT",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 1
+      },
+      "listIndex": 15,
+      "text": "Warning: Do not provoke.\nExplodes when cornered.\n- OMORI\n\nBut why do they explode?\n- KEL\n\nWho planted this here\nanyway?\n- AUBREY\n"
+    },
+    "158": {
+      "name": "SPROUT MOLE?",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_MOLES",
+        "index": 0
+      },
+      "listIndex": 16,
+      "text": "Is this SPROUT MOLE upside\ndown or are we the ones who\nare upside down?\n\n- OMORI\n"
+    },
+    "168": {
+      "name": "HAROLD",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 2
+      },
+      "listIndex": 18,
+      "text": "A master of the blade.\nA SPROUT MOLE who has\nstudied the art of combat\nfor many years in order to\nbe granted the prestigious\ntitle of HAROLD.\n\n- OMORI\n"
+    },
+    "172": {
+      "name": "MARSHA",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 185,
+        "y": 450
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 4
+      },
+      "listIndex": 19,
+      "text": "A master of the axe.\nA SPROUT MOLE who has\nstudied the art of combat\nfor many years in order to\nbe granted the prestigious\ntitle of MARSHA.\n\n- OMORI\n"
+    },
+    "176": {
+      "name": "THERESE",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 180,
+        "y": 435
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 3
+      },
+      "listIndex": 20,
+      "text": "A master of the bow.\nA SPROUT MOLE who has\nstudied the art of combat\nfor many years in order to\nbe granted the prestigious\ntitle of THERESE.\n\n- OMORI\n"
+    },
+    "180": {
+      "name": "LUCIUS",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 5
+      },
+      "listIndex": 21,
+      "text": "A master of the arcane.\nA SPROUT MOLE who has\nstudied the art of combat\nfor many years in order to\nbe granted the prestigious\ntitle of LUCIUS.\n\n- OMORI\n"
+    },
+    "184": {
+      "name": "HORSE HEAD",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 400
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 6
+      },
+      "listIndex": 22,
+      "text": "One part of a futile attempt to\nlook like a complete horse.\n\n- OMORI\n\n\nWell... At least they\ntried their best...\n- AUBREY\n"
+    },
+    "188": {
+      "name": "HORSE BUTT",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 400
+      },
+      "character": {
+        "name": "DW_EN_3",
+        "index": 3
+      },
+      "listIndex": 23,
+      "text": "This costume is the butts.\n\n- OMORI\n\n\nOh, now you're just being mean!\n- AUBREY\n"
+    },
+    "198": {
+      "name": "FISH BUNNY",
+      "background": {
+        "name": "battleback_dw_highway",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES_2",
+        "index": 3
+      },
+      "listIndex": 36,
+      "text": "A FOREST BUNNY that has\naptly adapted to its\nenvironment. They travel in\ngroups as they do not\nlike to be alone.\n\n- OMORI\n"
+    },
+    "202": {
+      "name": "GATOR GUY",
+      "background": {
+        "name": "battleback_dw_lastresort_interior",
+        "x": -90,
+        "y": 0
+      },
+      "position": {
+        "x": 175,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_GATOR",
+        "index": 0
+      },
+      "listIndex": 76,
+      "text": "The trusted and loyal\nhenchman of MR. JAWSUM.\nIt is highly likely that they\nhave all signed questionable\ncontracts with him.\n\nThey prefer to talk through\ntheir walkie-talkies even\nif they are all in the\nsame room.\n\n- OMORI\n"
+    },
+    "206": {
+      "name": "MUSSEL",
+      "background": {
+        "name": "battleback_dw_highway",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_3",
+        "index": 6
+      },
+      "listIndex": 37,
+      "text": "A very muscular mussel.\nIt keeps an incredibly\nstrenuous workout regimen\nin order to maintain its\nrock solid physique.\n\n- OMORI\n"
+    },
+    "210": {
+      "name": "REVERSE MERMAID",
+      "background": {
+        "name": "battleback_dw_highway",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_3",
+        "index": 5
+      },
+      "listIndex": 38,
+      "text": "Fish a was I, wish I, wish I.\n\n- OMORI\n"
+    },
+    "214": {
+      "name": "SHARK FIN",
+      "background": {
+        "name": "battleback_dw_highway",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_3",
+        "index": 4
+      },
+      "listIndex": 39,
+      "text": "Exclusively the fin part of a\nshark.\n\n- OMORI\n"
+    },
+    "218": {
+      "name": "SQUIZZARD",
+      "background": {
+        "name": "battleback_dw_highway",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 350
+      },
+      "character": {
+        "name": "DW_EN_6",
+        "index": 0
+      },
+      "listIndex": 40,
+      "text": "The most despicable creature\non the planet. Has no friends,\nis never invited to parties,\nand is terrible at jokes.\n\n- OMORI\n"
+    },
+    "250": {
+      "name": "SLIME BUNNY",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES_2",
+        "index": 4
+      },
+      "listIndex": 41,
+      "text": "Too sticky to hug,\ntoo sticky to love.\n\n- OMORI\n\n\nMade of slime...\ntastes like lime!\n\n- KEL\n"
+    },
+    "254": {
+      "name": "WATERMIMIC",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_IMPORTANTOBJ",
+        "index": 3
+      },
+      "listIndex": 42,
+      "text": "An obviously fake trap that\nwould only be able to fool the\nmost feeble-minded of\nindividuals.\n\n- OMORI\n\n\nAw, nuts! I thought this was\na watermelon for sure!!\n\n- KEL\n"
+    },
+    "258": {
+      "name": "WORM-BOT",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 420
+      },
+      "character": {
+        "name": "DW_EN_7",
+        "index": 0
+      },
+      "listIndex": 44,
+      "text": "A robotic worm with razor\nsharp teeth. Its favorite\nfood is carrots.\n\n- OMORI\n"
+    },
+    "262": {
+      "name": "SNOT BUBBLE",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_6",
+        "index": 1
+      },
+      "listIndex": 43,
+      "text": "A fragile being with a short\nlifespan. It leads a life of\nimpermanence and smells\nlike a wet dog.\n\n- OMORI\n"
+    },
+    "266": {
+      "name": "LAB RAT",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_3",
+        "index": 7
+      },
+      "listIndex": 45,
+      "text": "A self-proclaimed scientific\ngenius. Specializes in\ntheoretical chemistry, but its\ntrue passion lies on the\nsilver screen.\n\n- OMORI\n\n\nI hope it gets its big break\none day!\n\n- AUBREY\n"
+    },
+    "270": {
+      "name": "SPROUT MOLE??",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_6",
+        "index": 2
+      },
+      "listIndex": 46,
+      "text": "A monster made up of all the\nstrongest parts from all the\nstrongest SPROUT MOLES.\n\n- OMORI\n"
+    },
+    "336": {
+      "name": "YE OLD SPROUT",
+      "background": {
+        "name": "battleback_vf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 450
+      },
+      "character": {
+        "name": "DW_NPC_15",
+        "index": 1
+      },
+      "listIndex": 58,
+      "text": "The beloved grandfather\nof all SPROUT MOLES. It is said\nthat he loves all life in the\nforest and that all life in\nthe forest comes from him.\n\nWhen he is not busy\nmaintaining the balance of\nthe forest, he enjoys sitting.\n\n- OMORI\n"
+    },
+    "340": {
+      "name": "KITE KID",
+      "background": {
+        "name": "battleback_vf_kitekid",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "$sprite_vf_kite_kid",
+        "index": 0
+      },
+      "listIndex": 59,
+      "text": "A mysterious boy obsessed\nwith wind conditions. He is\nusually seen in the FLOATING\nFOREST flying his kite and\nmumbling something about the\nweather.\n\n- OMORI\n"
+    },
+    "344": {
+      "name": "KID'S KITE",
+      "background": {
+        "name": "battleback_vf_kitekid",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "$npc_kite",
+        "index": 0
+      },
+      "listIndex": 60,
+      "text": "A strange kite. It seems to\npossess a life of its own.\n\n- OMORI\n"
+    },
+    "365": {
+      "name": "BOSS",
+      "background": {
+        "name": "battleback_reckut",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 450
+      },
+      "character": {
+        "name": "DW_BOSS",
+        "index": 0
+      },
+      "listIndex": 57,
+      "text": "A little rough around the edges.\nCan be a foe... or a friend.\n\n- OMORI\n"
+    },
+    "370": {
+      "name": "EARTH",
+      "background": {
+        "name": "battleback_ow_outskirts",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 700
+      },
+      "character": {
+        "name": "DW_EN_7",
+        "index": 2
+      },
+      "listIndex": 62,
+      "text": "The third planet from the\nSun. Its surface is mostly\ncovered in water and people.\n\n- OMORI\n"
+    },
+    "379": {
+      "name": "SPACE EX-BOYFRIEND",
+      "background": {
+        "name": "battleback_ow_xsbf",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 150,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_3",
+        "index": 5
+      },
+      "listIndex": 64,
+      "text": "The fierce alter-ego of\nCAPT. SPACEBOY, captain of\nthe SPACE PIRATES. He comes\nout when CAPT. SPACEBOY is\nangry. Commands the planets\nof the solar system, but\nthe heart of no one...\n\n- OMORI\n"
+    },
+    "388": {
+      "name": "DOWNLOAD WINDOW",
+      "background": {
+        "name": "battleback_ow_download",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 325
+      },
+      "character": {
+        "name": "DW_NPC_17",
+        "index": 4
+      },
+      "listIndex": 63,
+      "text": "[ERROR]\n"
+    },
+    "402": {
+      "name": "SPACE EX-HUSBAND",
+      "background": {
+        "name": "battleback_ff_xsh",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 172,
+        "y": 550
+      },
+      "character": {
+        "name": "DW_NPC_14",
+        "index": 6
+      },
+      "listIndex": 74,
+      "text": "A recently-divorced CAPT.\nSPACEBOY. His soul has\ntranscended beyond space\nand time and has evolved\npast useless human emotions.\n\n- OMORI\n\n\nPoor, CAPT. SPACEBOY...\nNobody deserves this...\n\n- AUBREY\n"
+    },
+    "409": {
+      "name": "NEFARIOUS CHIP",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 170,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_15",
+        "index": 6
+      },
+      "listIndex": 72,
+      "text": "A creature from another realm,\nsummoned by a plate of\noatmeal cookies.\n- OMORI\n\nTruly evil!\n- AUBREY\n\nDastardly!\n- KEL\n\nNefarious, even!\n- HERO\n"
+    },
+    "415": {
+      "name": "UNBREAD TWINS",
+      "background": {
+        "name": "battlebacks_dd_biscuit_doughie",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 210,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_17",
+        "index": 3
+      },
+      "listIndex": 73,
+      "text": "BISCUIT and DOUGHIE, the\nunbread twins from another\nrealm who are forced to\nbake and transport bread\neternally via summoning\ncircle. Ohoooooo...\n\n- OMORI\n"
+    },
+    "424": {
+      "name": "KING CRAWLER",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 190,
+        "y": 490
+      },
+      "character": {
+        "name": "DW_EN_6",
+        "index": 3
+      },
+      "listIndex": 65,
+      "text": "A mindless parasite that kills\nSPROUT MOLES and harvests\ntheir empty husks in order to\nextend its own body.\n\n- OMORI\n"
+    },
+    "442": {
+      "name": "SHADY MOLE",
+      "background": {
+        "name": "battleback_sm_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_SPRM_3",
+        "index": 3
+      },
+      "listIndex": 67,
+      "text": "The most untrustworthy of\nSPROUT MOLES. Do not\nbelieve anything that he says.\n\n- AUBREY\n"
+    },
+    "451": {
+      "name": "KING CARNIVORE",
+      "background": {
+        "name": "battleback_sm_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_18",
+        "index": 5
+      },
+      "listIndex": 66,
+      "text": "One of the SPROUT MOLE's\nmany predators. KING\nCARNIVORE invades SPROUT\nMOLE habitats by burrowing\nunderground. They prefer\ntheir SPROUT MOLES warm\nand chewy.\n\n- OMORI\n"
+    },
+    "469": {
+      "name": "SIR MAXIMUS",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 7
+      },
+      "listIndex": 68,
+      "text": "A true master of the blade.\nA SPROUT MOLE who has\nstudied the art of combat\nfor hundreds of years in\norder to surpass the title of\nHAROLD and be granted the\nultimate title of MAXIMUS.\n\n- OMORI\n"
+    },
+    "478": {
+      "name": "SIR MAXIMUS II",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 7
+      },
+      "listIndex": 69,
+      "text": "A true master of the blade.\nThe son of a SPROUT MOLE\nwho has studied the art of\ncombat for hundreds of\nyears in order to surpass the\ntitle of HAROLD and be\ngranted the ultimate title of\nMAXIMUS.\n\n- OMORI\n"
+    },
+    "487": {
+      "name": "SIR MAXIMUS III",
+      "background": {
+        "name": "battleback_sw_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_5",
+        "index": 7
+      },
+      "listIndex": 70,
+      "text": "A true master of the blade.\nThe grandson of a SPROUT\nMOLE who has studied the\nart of combat for hundreds\nof years in order to surpass\nthe title of HAROLD and be\ngranted the ultimate title of\nMAXIMUS.\n\n- OMORI\n"
+    },
+    "496": {
+      "name": "SWEETHEART",
+      "background": {
+        "name": "battleback_sw_sweetheart",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 175,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_SH_1",
+        "index": 1
+      },
+      "listIndex": 71,
+      "text": "The impulsive and beautiful\nmad duchess who lives in a big\npink castle in PYREFLY FOREST.\nLoved by SPROUT MOLES\neverywhere. Has a soft spot\nfor HERO.\n\n- OMORI\n\n\nHey... Let's not bring this up\nagain, okay?\n\n- HERO\n"
+    },
+    "508": {
+      "name": "MR. JAWSUM",
+      "background": {
+        "name": "battlebacks_dw_jawsum",
+        "x": -90,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 525
+      },
+      "character": {
+        "name": "DW_jawsum",
+        "index": 1
+      },
+      "listIndex": 75,
+      "text": "A venture capitalist /\nentrepreneur / loan shark who\nowns 51% of the DEEP WELL.\nThere is nothing he believes in\nmore than a signed contract.\n\n- OMORI\n\n\nHey, it's the boss!\nLove that guy!\n\n-KEL\n"
+    },
+    "514": {
+      "name": "PLUTO (EXPANDED)",
+      "background": {
+        "name": "battleback_dw_pluto",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 162,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_15",
+        "index": 2
+      },
+      "listIndex": 77,
+      "text": "The astonishingly glorious\nexpanded version of PLUTO,\nthe strongest planet in all the\ncosmos and the universe.\n\n- OMORI\n"
+    },
+    "541": {
+      "name": "ROBOHEART",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_14",
+        "index": 0
+      },
+      "listIndex": 78,
+      "text": "A dangerous killer robot bent\non destroying life as we know\nit. We are lucky to have seen it\nand still be alive.\n\n- OMORI\n"
+    },
+    "550": {
+      "name": "MUTANTHEART",
+      "background": {
+        "name": "battleback_dw_sglair",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_10",
+        "index": 7
+      },
+      "listIndex": 79,
+      "text": "The failed? experiment of the\nSLIME SISTER, MARINA.\nMakes strange noises in an\nattempt to communicate.\nSmells like strawberries.\n\n- OMORI\n"
+    },
+    "559": {
+      "name": "PERFECTHEART",
+      "background": {
+        "name": "battleback_dw_perfectheart",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_14",
+        "index": 1
+      },
+      "listIndex": 80,
+      "text": "A goddess of immeasurable\npower and poise. The light\nthat she emits is capable of\ncausing acute blindness, and\nin some cases, death.\n\n- OMORI\n"
+    },
+    "577": {
+      "name": "HUMPHREY",
+      "background": {
+        "name": "battleback_dw_humphrey",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_SG_Humphrey",
+        "index": 0
+      },
+      "listIndex": 84,
+      "text": "Absolute, raw terror.\n- OMORI\n\nAnd squishy too! Nyak, nyak!\n- HUMPHREY\n"
+    },
+    "772": {
+      "name": "RABBIT",
+      "background": {
+        "name": "battleback_excavation_3",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 0
+      },
+      "listIndex": 34,
+      "text": "An abomination.\n\n- OMORI\n\n\nTruly appalling.\n\n- AUBREY\n"
+    },
+    "776": {
+      "name": "CHICKEN",
+      "background": {
+        "name": "battleback_excavation_3",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_4",
+        "index": 0
+      },
+      "listIndex": 35,
+      "text": "Poultry in motion.\n\n- HERO\n\n\nAin't nothing but a\nchicken wing!\n\n- KEL\n"
+    },
+    "785": {
+      "name": "CELERY",
+      "background": {
+        "name": "battleback_excavation_2",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 5
+      },
+      "listIndex": 33,
+      "text": "Did you know that eating\nCELERY burns more calories\nthan you get from it?\nIt's because you gotta\nchew it!\n\n- KEL\n\n\nEveryone knows that, KEL...\n\n- AUBREY\n"
+    },
+    "789": {
+      "name": "CILANTRO",
+      "background": {
+        "name": "battleback_excavation_2",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 2
+      },
+      "listIndex": 31,
+      "text": "Scientific Name -\nCoriandrum sativum\nStats, per 100 grams -\nEnergy- 22.71 Calories\nVitamin K - 310 mcg\nPotassium - 521 mg\nIron - 1.77 mg\n\nAre coriander and cilantro\nthe same thing?\n\n- KEL\n"
+    },
+    "793": {
+      "name": "GINGER",
+      "background": {
+        "name": "battleback_excavation_2",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 6
+      },
+      "listIndex": 32,
+      "text": "Scientific Name -\nZingiber officinale\n\nA flowering plant whose\nrhizome is widely used as a\nspice and a folk medicine.\nIt is an herbaceous perennial\nwhich grows annual\npseudostems about a meter\ntall, bearing narrow leaf\nblades.\n\n- OMORI\n"
+    },
+    "797": {
+      "name": "SPROUT BUNNY",
+      "background": {
+        "name": "battleback_excavation_2",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES_2",
+        "index": 1
+      },
+      "listIndex": 30,
+      "text": "Kind of cute. Might be vegan.\n- OMORI\n\nI am 100% sure this is vegan.\n- KEL\n\nPretty sure this is vegan.\n- HERO\n\nDefinitely not vegan...\n- AUBREY\n"
+    },
+    "839": {
+      "name": "CUPCAKE BUNNY",
+      "background": {
+        "name": "battleback_oo_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 4
+      },
+      "listIndex": 25,
+      "text": "An evil cupcake parasite\nthat has taken a poor\nFOREST BUNNY as its host.\n\nThe FOREST BUNNY's eyes are\nfilled with silent screams.\n\n- OMORI\n"
+    },
+    "843": {
+      "name": "MILKSHAKE BUNNY",
+      "background": {
+        "name": "battleback_oo_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 5
+      },
+      "listIndex": 26,
+      "text": "A FOREST BUNNY with a\nmilkshake strapped on\nits back.\n\n- OMORI\n"
+    },
+    "847": {
+      "name": "PANCAKE BUNNY",
+      "background": {
+        "name": "battleback_oo_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES",
+        "index": 3
+      },
+      "listIndex": 27,
+      "text": "A cute FOREST BUNNY that\nsports its fallen brethren\nas a fashionable hat.\n\n- OMORI\n"
+    },
+    "851": {
+      "name": "S.S. SNAKE",
+      "background": {
+        "name": "battleback_excavation_1",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_EN_1",
+        "index": 7
+      },
+      "listIndex": 28,
+      "text": "A.K.A.\nSTRAWBERRY SHORT SNAKE,\na short snake with a long\nname.\n\n- OMORI\n"
+    },
+    "855": {
+      "name": "GHOST BUNNY",
+      "background": {
+        "name": "battleback_pf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "ENEMY_BUNNIES_2",
+        "index": 0
+      },
+      "listIndex": 17,
+      "text": "Hostile BUNNY spirits\nyearning for revenge.\n\n- OMORI\n\n\nThey're still kinda cute,\nthough...\n\n- AUBREY\n"
+    },
+    "859": {
+      "name": "TOAST GHOST",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 300
+      },
+      "character": {
+        "name": "DW_EN_2",
+        "index": 7
+      },
+      "listIndex": 52,
+      "text": "An unamused apparition\nthat spouts ominous phrases like\n“When there is no more room\nin Hell, the bread shall walk\nthe Earth.”\n\n- OMORI\n\n\nThis one looks kind of like\nyou, OMORI!\n\n- AUBREY\n"
+    },
+    "863": {
+      "name": "BIG STRONG TREE",
+      "background": {
+        "name": "battleback_vf_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 475
+      },
+      "character": {
+        "name": "DW_NPC_17",
+        "index": 2
+      },
+      "listIndex": 3,
+      "text": "Wow! It's so big and strong!\n\n- KEL\n"
+    },
+    "877": {
+      "name": "MARINA",
+      "background": {
+        "name": "battleback_dw_slimegirls",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 180,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_10",
+        "index": 2
+      },
+      "listIndex": 81,
+      "text": "The reckless and rash\nmiddle-child of the SLIME\nSISTERS. Has a short temper.\nEnjoys taking living things\napart and putting them back\ntogether, usually without\ntheir permission...\n\n- OMORI\n"
+    },
+    "878": {
+      "name": "MOLLY",
+      "background": {
+        "name": "battleback_dw_slimegirls",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 185,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_10",
+        "index": 1
+      },
+      "listIndex": 82,
+      "text": "The devious and cunning\noldest SLIME SISTER. Knows\nhow to find enjoyment in\neverything. She has mastered\nall the sciences, but sticks\nwith programming as it\nrequires the least amount of\nmovement.\n\nIs quite fond of\ncheesy potato chips.\n\n- OMORI\n"
+    },
+    "879": {
+      "name": "MEDUSA",
+      "background": {
+        "name": "battleback_dw_slimegirls",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 170,
+        "y": 500
+      },
+      "character": {
+        "name": "DW_NPC_10",
+        "index": 0
+      },
+      "listIndex": 83,
+      "text": "The calm and practical youngest\nSLIME SISTER. Mainly deals with\nliquid elements in vials because\nthey are pretty.\n\nShe is an expert at diffusing\ndifficult situations since her\nsisters like to argue quite\nfrequently.\n\n- OMORI\n"
+    },
+    "880": {
+      "name": "???",
+      "conditionalNames": [
+        {
+          "name": "PLUTO",
+          "switches": [
+            [
+              90,
+              true
+            ]
+          ]
+        }
+      ],
+      "background": {
+        "name": "battleback_ow_outskirts",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_NPC_15",
+        "index": 2
+      },
+      "listIndex": 61,
+      "text": "A mysterious flexing rock.\n\n- OMORI\n\n\nI like his muscles!\n\n- KEL\n",
+      "conditionalText": [
+        {
+          "switchIds": [
+            15
+          ],
+          "line": null,
+          "text": "\nTurns out... He's a pretty\nswell guy.\n\n- OMORI\n\nLove him!\n\n- KEL\n"
+        }
+      ]
+    },
+    "881": {
+      "name": "SLICE, SESAME, & SOURDOUGH",
+      "background": {
+        "name": "battlebacks_dd_default",
+        "x": 0,
+        "y": 0
+      },
+      "position": {
+        "x": 160,
+        "y": 425
+      },
+      "character": {
+        "name": "DW_NPC_17",
+        "index": 5
+      },
+      "listIndex": 47,
+      "text": "The souls of bread children\nbrought back to life by\na mysterious power. They only\ncome as a group because\nthey are all good friends.\n\n- OMORI\n"
+    }
+  }
+}
